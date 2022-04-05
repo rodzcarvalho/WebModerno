@@ -10,7 +10,6 @@ linhas
 */
 
 /*
-* tambem
 * comentário de 
 * multiplas 
 * linhas

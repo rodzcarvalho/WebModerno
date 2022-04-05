@@ -8,6 +8,8 @@ let precoFinal = preco+imposto
 
 
 
+
+
 console.log(produto) 
 console.log(quantidade) 
 console.log(preco)
