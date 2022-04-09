@@ -16,3 +16,4 @@ console.log('Linha 2')
 * pode ser assim tb
 * com asterisco na frente.
 */
+console.log('Linha 3')
