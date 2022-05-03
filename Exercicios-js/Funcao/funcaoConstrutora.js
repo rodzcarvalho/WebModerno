@@ -1,3 +1,9 @@
+/*As funções construtoras em JavaScript são como as classes do Java, 
+* diferenciando apenas pela sintaxe. 
+* Em questão de funcionamento, tanto funções contrutoras no JavaScript 
+* quanto Classes no Java têm a mesma utilidade: servir de molde para a 
+* criação de objetos.
+*/
 function Carro(velocidadeMaxima = 200, delta = 5) {
     // Atributo privado, com o let, pois só pode ser acessado dentro da function, var deixa acessar de fora o que deixa menos seguro
     let velocidadeAtual = 0
